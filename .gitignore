@@ -1,0 +1,10 @@
+# Ignore all .dll files
+*.dll
+
+# You may also want to ignore other build artifacts like .exe and .pdb files
+*.exe
+*.pdb
+
+# Or ignore entire directories where DLLs are commonly found, like bin/ and obj/
+bin/
+obj/
