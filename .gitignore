@@ -8,3 +8,4 @@
 # Or ignore entire directories where DLLs are commonly found, like bin/ and obj/
 bin/
 obj/
+.venv/
